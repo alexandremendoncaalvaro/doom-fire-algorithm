@@ -1,7 +1,7 @@
 # My own implementation of Doom Fire Algorithm
 
 Experiments related to the Doom fire effect implemented in JavaScript.  
-<https://github.com/alexandremendoncaalvaro/doom-fire-algorithm>
+<https://alexandremendoncaalvaro.github.io/doom-fire-algorithm/>
 
 ## My challenges:
 - I'm using only one for loop to iterate over table cells (pixels), besides two nesteds.
