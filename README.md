@@ -5,7 +5,7 @@ Experiments related to the Doom fire effect implemented in JavaScript.
 
 ## My challenges:
 - I'm using only one for loop to iterate over table cells (pixels), besides two nesteds.
-- I'm using Revelling Module Pattern (IIFE)
+- I'm using Revealing Module Pattern (IIFE)
 
 ---
 
